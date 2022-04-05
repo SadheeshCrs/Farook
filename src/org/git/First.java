@@ -30,4 +30,18 @@ public class First {
 		System.out.println("6");
 
 	}
+	public void method10() {
+		System.out.println("10");
+
+	}
+	
+	public void method11() {
+		System.out.println("11");
+
+	}
+	
+	public void method12() {
+		System.out.println("12");
+
+	}
 }
